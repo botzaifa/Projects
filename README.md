@@ -11,7 +11,7 @@ Feel free to explore the projects and use the code as a reference or starting po
 To get started with any of the projects, simply navigate to the respective project folder and explore the code. You can download the entire repository or clone it using the following command:
 
 ```shell
-git clone https://github.com/your-username/Projects.git
+git clone https://github.com/botzaifa/Projects.git
 ```
 
 Ensure that you have Python installed on your system. The projects are written in Python, and you will need a compatible version to run them.
@@ -25,6 +25,6 @@ Please ensure that your contributions align with the purpose of this repository 
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, you can reach me at [My Emai](mailto:kmhuzaifabinafzal@gmail.com).
+If you have any questions, suggestions, or just want to connect, you can reach me at [My Insta](www.instagram.com/botzaifa).
 
 Happy coding!
