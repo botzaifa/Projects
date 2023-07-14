@@ -26,5 +26,4 @@ Please ensure that your contributions align with the purpose of this repository 
 ## Contact
 
 If you have any questions, suggestions, or just want to connect, you can reach me at my Insta: @botzaifa
-
 Happy coding!
